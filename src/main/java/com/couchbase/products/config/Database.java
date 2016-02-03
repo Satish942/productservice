@@ -19,7 +19,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALING
  * IN THE SOFTWARE.
  */
-package com.couchbase.productsample.config;
+package com.couchbase.products.config;
 
 import java.util.ArrayList;
 import java.util.List;

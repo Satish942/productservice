@@ -19,7 +19,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALING
  * IN THE SOFTWARE.
  */
-package com.couchbase.productsample.controller;
+package com.couchbase.product.controller;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -36,8 +36,8 @@ import com.couchbase.client.java.view.AsyncViewRow;
 import com.couchbase.client.java.view.ViewQuery;
 import com.couchbase.client.java.view.ViewResult;
 import com.couchbase.client.java.view.ViewRow;
-import com.couchbase.productsample.CouchbaseService;
-import com.couchbase.productsample.breweries.BreweriesController;
+import com.couchbase.product.breweries.BreweriesController;
+import com.couchbase.products.CouchbaseService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

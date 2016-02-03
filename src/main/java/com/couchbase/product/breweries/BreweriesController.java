@@ -19,7 +19,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALING
  * IN THE SOFTWARE.
  */
-package com.couchbase.productsample.breweries;
+package com.couchbase.product.breweries;
 
 import java.util.List;
 
@@ -31,7 +31,7 @@ import com.couchbase.client.java.document.json.JsonObject;
 import com.couchbase.client.java.view.AsyncViewResult;
 import com.couchbase.client.java.view.AsyncViewRow;
 import com.couchbase.client.java.view.ViewQuery;
-import com.couchbase.productsample.CouchbaseService;
+import com.couchbase.products.CouchbaseService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
